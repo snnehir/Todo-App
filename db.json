@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "username": "snnehir",
+      "fullname": "s nur",
+      "password": "fd5e3d128c5825e8e29715534a3410998c72c36b",
+      "todoList": [],
+      "id": 4
+    },
+    {
+      "username": "user123",
+      "fullname": "kevin",
+      "password": "836e8de329b2ee8b9dd3b47536e9ebd1f2db568f",
+      "todoList": [],
+      "id": 5
+    }
+  ],
+  "todoList": [
+    {
+      "title": "bu snnehir görevidir",
+      "isCompleted": true,
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "title": "fix saltkey problem",
+      "isCompleted": false,
+      "userId": 4,
+      "id": 10
+    },
+    {
+      "title": "mint",
+      "isCompleted": true,
+      "userId": 5,
+      "id": 11
+    }
+  ]
+}
