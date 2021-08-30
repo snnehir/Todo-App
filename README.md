@@ -1,4 +1,5 @@
 # todo-app
+Aim of this simple repo is to understand authentication operations with using Vue 3.
 
 ## Project setup
 ```
